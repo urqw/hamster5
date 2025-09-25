@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>22705170430595B1709E736D81BCDC1F</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 5: На дороге</title>
+			<author>Apromix</author>
+			<language>ru</language>
+			<firstpublished>2013-06-06</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - хомяк по кличке Семён. Если вы прошли предыдущие игры серии, то должны помнить, что вас коварно заточили в клетку, но ценой неимоверных усилий вам удалось вырваться на свободу. Теперь вы в роли хомяка Семёна оказались за забором на пыльной дороге. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>5</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster5</url>
+			<authoremail>apromix@mail.ru, bees@meta.ua</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
